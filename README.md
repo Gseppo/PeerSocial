@@ -1,4 +1,4 @@
-# Beaker Timeline
+# PeerSocial
 
 ![thumb.png](thumb.png)
 

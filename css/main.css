@@ -1,20 +1,17 @@
-@import "/vendor/beaker-app-stdlib/css/common.css";
-@import "/vendor/beaker-app-stdlib/css/fontawesome.css";
-
 body {
-  --border-color--focused: #7599ff;
-  --text-color--nav--highlight: #445;
-  --bg-color--nav-count: #E91E63;
-
-  font-size: 13px;
-  background: var(--bg-color--default);
-  color: var(--text-color--default);
+  background-color: #808080;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;	 
+  background-size: 100% auto;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    --border-color--focused: #7599ff;
-    --text-color--nav--highlight: #bbc;
-    --bg-color--nav-count: #E91E63;
-  }
+.peader { 
+  padding: 25px;
+  text-align: left;
+  background: #A9A9A9;
+  color: #DC143C;
+  font-size: 15px;
+  box-shadow: 4px 2px 15px 4px #DC143C;
 }

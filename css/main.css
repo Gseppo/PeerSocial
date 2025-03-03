@@ -1,3 +1,5 @@
+/* I fucking hate frontend backend all kinds of dev ngl */
+
 body {
   background-color: #808080;
   height: 100%;
@@ -7,11 +9,12 @@ body {
   background-size: 100% auto;
 }
 
-.peader { 
+.peader { /*Literally a fucking header*/
   padding: 25px;
   text-align: left;
   background: #A9A9A9;
   color: #DC143C;
   font-size: 15px;
   box-shadow: 4px 2px 15px 4px #DC143C;
+  font-family: fixedsys;
 }

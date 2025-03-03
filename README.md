@@ -4,8 +4,7 @@
 
 PeerSocial yet another form of Social media. A [Gseppo](https://github.com/Gseppo) application. No longer Based upon A [Beaker](https://github.com/beakerbrowser/beaker) application as I have rewritten it from bedrock.
 
-Greetings esteemed Individuals I am Gseppo. I saw this most Majestic Idea for a project and Forked it since it was seemingly abandoned therefore I shall be Revitalizing
-Beaker Social application as PeerSocial and as such shall be providing it with quite a few changes more than likely I hope this little project lives to everyones hopes and I hope to make it as perfect as I can
+Greetings Esteemed Individuals It is Gseppo I am here to introduce to you PeerSocial my new Social Media Platform Its just social media... I didnt really make a gimmick.
 
 
 ## License

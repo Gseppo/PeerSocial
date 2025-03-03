@@ -1,6 +1,6 @@
 # PeerSocial
 
-![thumb.png](thumb.png)
+![PeerSocial.png](PeerSocial.png)
 
 PeerSocial yet another form of Social media. A [Gseppo](https://github.com/Gseppo) application. No longer Based upon A [Beaker](https://github.com/beakerbrowser/beaker) application as I have rewritten it from bedrock.
 

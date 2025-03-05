@@ -1,4 +1,4 @@
-/* I fucking hate frontend backend all kinds of dev ngl */
+z/* I fucking hate frontend backend all kinds of dev ngl */
 
 body {
   background-color: #808080;
@@ -17,4 +17,41 @@ body {
   font-size: 15px;
   box-shadow: 4px 2px 15px 4px #DC143C;
   font-family: fixedsys;
+}
+
+.Freakr-Container { /*Container for Freakr duhh*/
+display: flex;
+height: 100vh;
+}
+
+.Freaker-Sidebar { /*Just Freakr*/
+background-color: #2f3136;
+width: 245px;
+padding-top: 5px;
+overflow-y: auto;
+color: #DC143C;
+font-family: fixedsys;
+}
+
+.Freakr-flist { /*friend list i guess*/
+list-style: none;
+padding: 0;
+margin: 0;
+}
+.Freakr-uitem { /*individual user*/
+display: flex;
+align-items: center;
+padding: 15px;
+cursor: pointer;
+border-bottom: 1px solid #444;
+transition: background-color 0.3s ease;
+}
+
+.freakr-uitem-hover {
+  background-color: #3a3b3f;
+}
+.Freakr-username {
+  font-size: 14px;
+  font-weight: bold;
+  color: #DC143C;
 }
